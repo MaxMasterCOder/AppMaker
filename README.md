@@ -1,0 +1,1 @@
+# Appcode is a python library which allows you to do things that'd usually take hours of research. If you want to see all the functions/classes/code please go to https://github.com/MaxMasterCOder/AppMaker
